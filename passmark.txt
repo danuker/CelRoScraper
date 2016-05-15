@@ -1,0 +1,344 @@
+intel corei7 6700	-
+intel xeon e5 2620 v3	-
+gtx 970	8666
+intel core i3 6100	3820
+intel pentium  3805u	2015
+gtx 980m	5894
+fx 43200 x4 4 core	-
+intel core i5 6200u	3898
+intel core i5 6440hq	6443
+gtx 750m	-
+intel xeon e3 1246 v3	-
+hd 8240	282
+gt 740m	769
+gtx 950 oc	-
+intel core i5 6400t	5286
+intel xeon  e5 1650v2	-
+4k hd  6000	-
+intel pentium  n3700	1879
+intel core i7 6600u	4778
+intel core i3 4130	4120
+intel celeron 2957u	1481
+tip laptop: home	-
+gtx 850m	1414
+gtx 970m	4159
+gt845m	-
+intel core i7 4500u	3800
+intel core i5 4590t	5484
+e1 2500	-
+intel core i5 4590s	6953
+2 in 1: nu	-
+intel core i7 5557u	4935
+a4 6210 quad core	-
+intel core i7 4980hq	10067
+intel corei7 6500u	-
+quadro k4200	4428
+gt940mx	-
+r7 370	4461
+intel celeron  n3050	899
+intel celeron  n2940	1785
+intel xeon e3 1225 v5	-
+hd  p4600	604
+intel hd  5500	560
+intel core i5 4460t	4876
+intel core i5 4460s	6350
+meso xt	-
+hd 7540d	518
+intel core i5 4690s	7399
+intel core i7 4785t	7486
+ntel core i5 6200u	-
+intel corei3 5020u	-
+gtx980m	5708
+intel core i7 6820hq	8489
+r7 m270	769
+intel core i7 4910mq	9539
+gtx950	5247
+r9 370	4248
+intel core i7 6820hk	9041
+intel corei5 4590t	-
+intel core i5 5200u	3522
+gt820m	-
+intel core i5 4200m	4056
+intel core i5 4200h	4412
+hd r7 m265	-
+gt820a	-
+ntel core i7 5600u	-
+intel pentium  g4400	3686
+intel core i5 4200u	3263
+quadro k1100m	966
+intel celeron  n2840	1052
+intel celeron n2840	1047
+fara placa video	-
+e1 6015	-
+intel core i3 5010u	3058
+intel core i3 4170	4583
+hd  5000	593
+gtx 745	2159
+quadro k420	830
+gt 940m	-
+intel core i7 4712hq	7521
+intel iris pro  6200	1534
+r9 m380	3001
+intel pentium  3558u	1766
+r5 m335	597
+intelintel hd  5500	-
+r5 m330	550
+r5 m230	443
+intel pentium  j2900	2059
+intel core i7 6700	11003
+hd  5500	559
+r7 350x	-
+intel core i3 4170t	4583
+a10 6700	-
+intel core  i7 4710mq	8006
+intel hd  515	572
+quadro k5200	6139
+intel core i7 4610m	5109
+nvidia	-
+intel core i5 6600k	7801
+intel pentium  4405u	2975
+intel celeron j1800	1030
+intel core i3 4010u	2438
+gtx970m	4159
+fx 7500	-
+intel core i5 4310u	3742
+intel core i5 4310m	4431
+r7 240	962
+intel hd  4400	547
+intel core i5 6200	3917
+920m	667
+intel xeon e3 1226 v3	-
+intel core i5 6500	5736
+quadro m4000m	3251
+r7 m360	-
+r9 m290x	2547
+intel xeon  e3 1241 v3	-
+820m	577
+intel core i7 4720hq	8112
+r9 m365x	-
+gtx970 directcu ii oc	-
+intel core i7 4702mq	7175
+iris graphichs	-
+intel atom  d525	698
+quadro k3100m	1855
+r5	362
+r2	296
+fx 6300 x6 6 core	-
+r7 340	-
+intel core i5 6600	7801
+radeon	-
+intel pentium g3260	3389
+firepro w5130m	1751
+gt 730m	801
+a6 5400b	-
+intel core i5 6300u	4308
+intel core i7 4710hq	7892
+tip laptop: home,business	-
+intel celeron  j1800	1030
+hd r5m230m	-
+intel pentium n3700	1879
+intel core i5 6500t	5736
+hd  4400	547
+gtx 960m	1670
+quadro m3000m	3831
+intel pentium  3825u	2627
+intel core i5	2197
+hd 8690m	836
+940m	905
+gtx960	5938
+intel xeon  e5 1620v2	-
+intel xeon  e5 1620v3	-
+gtx745	2159
+intel core i3 3120m	3226
+n15p q1 quadro k1100m gddr5	-
+gt 730	928
+intel celeron 3205u	1697
+gtx980	11578
+intel core i3 4160t	4383
+intel core i5 6300hq	5793
+intel xeon e3 1245 v5	-
+intel celeron  n3050 (2m cache, up to 2.16 ghz)	-
+intel core i7 6700hq	7999
+intel core i7 4790s	9623
+intel core i5 4210m	4216
+gt830m	-
+hd 4400	547
+intel core i5 4210h	4556
+chipset video: 920m	-
+gtx860m	1583
+intel core i5 4210u	3384
+intel atom x5 z8300	-
+i7 5500u	4029
+intel xeon e3 1240 v5	-
+intel hd  4000	452
+intel core i7 4790k	11204
+quadro k610m	710
+intel core i7 6700t	8951
+intel core i7 6700k	11003
+intel corei5 6400	-
+intel iris  540	1389
+r5 m240	521
+gt 930m	-
+firepro d300	-
+gt930a	-
+i7 4712mq	7192
+gt930m	-
+mali 400mp4 gpu, up to 600mhz	-
+chipset video: gtx 970m	-
+gtx930a	-
+i7 6700hq	7999
+gt940m	-
+gt840m	-
+ntel core i7 6700	-
+intel pentium  g3240	3276
+hd 8790m	1305
+gtx960m	1670
+ntel core i5 6500	-
+930m	858
+intel hd  4600	710
+firepro w5100	2824
+firepro w2100	905
+intel xeon  e5 1620 v3	-
+intel core i3 5005u	2910
+intel core i7 6500u	4336
+intel core i5 4300m	4382
+intel xeon e3 1505m v5	-
+intel core i5 5250u	3631
+gt750m	1300
+quadro k2200	3422
+intel core i5 6402p	6498
+intel celeronn3050	-
+intel core i7 4790	11204
+intel core i3 6100u	3505
+intel core i3 6100t	4788
+r9 395x	-
+intel core i7 4940mx  extreme edition	-
+gtx 950	5247
+intel core i7 5500u	4029
+intel xeon e3 1535m v5	-
+intel hd  6000	814
+r9 m375	1381
+intel pentium  g3250t	2841
+hd 8750m	955
+intel iris  6100	946
+firepro d500	-
+firepro m5100w	-
+intel core i7 5700hq	8606
+r9 255	1802
+a8 6410	2522
+intel core i5 6260u	4330
+quadro m1000m	1553
+quadro k2200m	1573
+intel hd  530	964
+intel iris	1393
+intel core i7 4770	7065
+gtx 950m	1400
+chipset video: intel hd	-
+r7 m340	-
+hd  4600	706
+intel celeron core	-
+intel corei3 6100u	-
+intel xeon e5 2650 v3	-
+intel atom z3735f	910
+intel core i5 5300u	3803
+gtx970	8666
+intel xeon  e5 1650 v3	-
+intel core i3 4150	4175
+intel hd  p4600	604
+gtx750	3684
+intel core i5 4460	6350
+firepro m4150	1111
+gtx 960	5938
+gtx 880m	3679
+gt 750m	1312
+intel pentium g3250	3328
+r7 m260	679
+r7 m265	814
+intel celeron  j1900	1889
+gt 820a	-
+gt 840m	-
+intel xeon e3 1240v5	-
+intel core i3 4005u	2462
+carrizo fx 8800p	-
+intel core i7 4510u	3946
+intel pentium j2900	2059
+gt930m intel hd  5500	-
+intel core i7 4712mq	7163
+intel core m5 6y54	-
+r5 m315	-
+intel pentium 3556u	1714
+r5 m255	727
+chipset video: gtx960m	-
+a4 5300b	-
+intel pentium  n3540	1958
+intel hd	311
+quadro k4100m	2570
+intel pentium 4405u	3045
+quadro m5000m	6479
+hd 8490	381
+intel	-
+jet le r5 m230	-
+intel pentium 3825u	2627
+intel hd  p530	933
+chipset video: r5 m335	-
+intel core i5 4570	6485
+chipset video: r5 m330	-
+intel celeron  2957u	1484
+firepro m6100	2772
+gt920m	-
+gt 920m	-
+intel core i7 4770s	9346
+gt920a	-
+r5 m255 2	-
+gtx 970 strix dc2 oc 256bit	-
+gt730m	801
+intel xeon  e5 2630 v3	-
+intel pentium  g3250	3328
+intel core i7 5600u	4355
+r7 m260x	1054
+intel xeon  e3 1225 v3	-
+gtx 965m	2987
+a10 7300	-
+intel celeron n3150	1680
+intel pentium g3240t	2988
+quadro k620	2263
+gtx940	-
+a6 7310	2588
+r9 m265x	1211
+gtx950a	1484
+intel core i3 4030u	2703
+gtx950m	1400
+gtx760	5068
+intel core i7 4750hq	8192
+r5 m355	-
+gt 218m	-
+hd 7480d	420
+quadro m500m	916
+intel celeron  847	950
+intel core i3 4160	4383
+hd 4600	706
+exo pro r5 m330	-
+intel xeon  e3 1535m v5	-
+ntel core i5 5200u	-
+quadro m2000m	2176
+intel celeron  g1840	2971
+r9 m395	-
+r9 m390	-
+intel core i7 4600m	4777
+intel core i7 4600u	4136
+a4 6210	2112
+intel core i3 5015u	3153
+intel core i7 4710mq	8009
+gtx850m	1414
+intel hd  520	788
+intel corei5 6200u	-
+intel core i7 6920hq	9566
+intel celeron  n3150	1680
+r7 m370	-
+intel core i7 4810mq	8793
+intel celeron n3050	899
+intel core i3 4000m	3236
+intel core i5 6400	5286
+intel core i5 4590	6953
+quadro k2100m	1228
+r7 250	1405
